@@ -1,0 +1,7 @@
+=======================================
+|     	Reporte de Anuncios	      |
+=======================================
+
+Anuncios:
+
+Número de archivos PDF registrados en la base de datos: 10
