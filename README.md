@@ -1,1 +1,2 @@
-proyecto Analisis y Diseño 
+Proyecto Analisis y Diseño 
+Alejandro Osorio
